@@ -1,2 +1,2 @@
-info:
-  messag:"hello woprd prod version=1"
+config:
+  info: mester springcloud-config prod version = 1
