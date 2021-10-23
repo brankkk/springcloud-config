@@ -1,2 +1,2 @@
-info:
-  messag:"hello woprd test version=1"
+config:
+  info: mester springcloud-config test version = 1
